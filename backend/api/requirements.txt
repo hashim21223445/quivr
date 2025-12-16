@@ -71,7 +71,7 @@ flake8-black==0.3.6; python_version >= '3.7'
 flashrank==0.2.5; python_version >= '3.6'
 flatbuffers==24.3.25
 flower==2.0.1; python_version >= '3.7'
-fonttools==4.53.0; python_version >= '3.8'
+fonttools==4.61.0; python_version >= '3.8'
 fpdf2==2.7.9; python_version >= '3.7'
 frozenlist==1.4.1; python_version >= '3.8'
 fsspec[http]==2024.3.1; python_version >= '3.8'
