@@ -64,7 +64,7 @@ fastapi-cli==0.0.4; python_version >= '3.8'
 fastavro==1.9.4; python_version >= '3.8'
 feedfinder2==0.0.4
 feedparser==6.0.11; python_version >= '3.6'
-filelock==3.14.0; python_version >= '3.8'
+filelock==3.20.1; python_version >= '3.8'
 filetype==1.2.0
 flake8==7.0.0; python_full_version >= '3.8.1'
 flake8-black==0.3.6; python_version >= '3.7'
